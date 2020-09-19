@@ -80,7 +80,7 @@ Bottom 5 After Thomas High removed:
 
 ![school_spending_A](Resources/school_spending_A.png)
 
-- No changes on scores with respect to school spending.
+- No significant changes on scores with respect to school spending.
 
 
 ### Results by School Size After Thomas High Removed:
