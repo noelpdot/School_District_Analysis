@@ -93,7 +93,7 @@ Bottom 5 After Thomas High removed:
 ### Results by School Type After Thomas High Removed:
 
 
-![school_type_A](Resources/school_type_A.png)
+![school_type_A](Resources/school_Type_A.png)
 
 - No changes on scores with respect to school type.
 
