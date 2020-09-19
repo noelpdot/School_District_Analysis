@@ -27,17 +27,17 @@ The district school board has notified Maria and her supervisor that there is ev
 
 District Data After Thomas High School Grade 9 scores Removed: 
 
-![Overall_district_summary_A](/overall_district_summary_A.png)
+![Overall_district_summary_A](Resources/overall_district_summary_A.png)
 
 District Data Before:
 
-![Overall_district_summary_B](/overall_district_summary_B.png)
+![Overall_district_summary_B](Resources/overall_district_summary_B.png)
 
 ### School Analysis & Summary
 
 School Data After Thomas High School Grade 9 Scores Removed:
 
-![School_summary_A](/school_summary_A.png)
+![School_summary_A](Resources/school_summary_A.png)
 
 - There is a slight increase with average reading score and percentage this is due the reduced number of students, and the average of scoring with the other grades 10th-12th was high.
 - slight drop but negligible with average math scores.
@@ -46,7 +46,7 @@ School Data After Thomas High School Grade 9 Scores Removed:
 
 School data Before:
 
-![School_summary_B](/school_summary_B.png)
+![School_summary_B](Resources/school_summary_B.png)
 
 
 ### Schools Performance (TOP 5 & BOTTOM 5)
@@ -57,23 +57,23 @@ School data Before:
 
 Top 5 After Thomas High Removed:
 
-![Top_schools_A](/Top_schools_A.png)
+![Top_schools_A](Resources/top_schools_A.png)
 
 Bottom 5 After Thomas High removed:
 
-![Bottom_schools_B](/Bottom_schools_A.png)
+![Bottom_schools_B](Resources/bottom_schools_A.png)
 
 
 ### Results of Math Score After Thomas High Removed:
 
 
-![Math_score_grade_A](Resources/Math_score_grade_A.png)
+![Math_score_grade_A](Resources/math_score_grade_A.png)
 
 
 ### Results of Reading Score After Thomas High Removed:
 
 
-![Reading_score_grade_A](Resources/Reading_score_grade_A.png)
+![Reading_score_grade_A](Resources/reading_score_grade_A.png)
 
 
 ### Results by School Spending After Thomas High Removed:
@@ -85,7 +85,7 @@ Bottom 5 After Thomas High removed:
 
 ### Results by School Size After Thomas High Removed:
 
-![school_size_A](/school_size_A.png)
+![school_size_A](Resources/school_size_A.png)
 
 - No changes on scores with respect to school size.
 
@@ -93,7 +93,7 @@ Bottom 5 After Thomas High removed:
 ### Results by School Type After Thomas High Removed:
 
 
-![school_type_A](/school_type_A.png)
+![school_type_A](Resources/school_type_A.png)
 
 - No changes on scores with respect to school type.
 
