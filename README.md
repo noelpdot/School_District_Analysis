@@ -57,11 +57,11 @@ School data Before:
 
 Top 5 After Thomas High Removed:
 
-![Top_schools_A](Resources/top_schools_A.png)
+![Top_schools_A](Resources/top_Schools_A.png)
 
 Bottom 5 After Thomas High removed:
 
-![Bottom_schools_B](Resources/bottom_schools_A.png)
+![Bottom_schools_B](Resources/bottom_Schools_A.png)
 
 
 ### Results of Math Score After Thomas High Removed:
